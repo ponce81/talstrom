@@ -8,7 +8,7 @@ function rng(seed: number) {
   };
 }
 
-export const TODAY = "Fri 13 Nov 2026";
+export const TODAY = "Sat 21 Nov 2026";
 export const NOW_QH = 66; // 16:30, the current quarter-hour index (0–95)
 
 export function qhLabel(i: number) {
